@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
-    "agent:healer": "node agents/healer.js"},
+    "agent:healer": "node .github/agents/healer.js"},
   "keywords": [],
   "author": "",
   "license": "ISC",
